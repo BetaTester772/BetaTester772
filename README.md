@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Problem-Solving" and "Web" with FastAPI.
+- 🔭 I’m currently working on "Problem-Solving" and "Web" with FastAPI and Sevelt.
 - 🤔 I’m looking for help with those two things, "Problem-Solving" and "Web".
 - Now I'm studying discrete mathematics and problem-solving
 
