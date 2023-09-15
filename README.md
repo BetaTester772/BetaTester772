@@ -5,7 +5,7 @@
 - Now I'm studying discrete mathematics and problem-solving
 - Now I'm making 'HasEntranceExaminationSystem' with FastAPI and Svelte
 
-![solved.ac card](https://solvedac-cards-starcea.paring.moe/profile/hoseong8115?size=200)
+![solved.ac card](https://solvedac-cards-starcea.paring.moe/profile/hoseong8115?size=100)
 
 <!--
 **BetaTester772/BetaTester772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
