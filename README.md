@@ -1,10 +1,37 @@
+### Hello, I'm Hoseong Ahn!
+🎓 **Student & Full-Stack Developer** | 📍 Hana High School (HAS 13)
+
+#### 🛠 Tech Stack
+- **Back-End Development:** Developing back-end with Python using FastAPI
+- **Front-End Development:** Building modern web interfaces with Svelte
+- **Problem Solving:** Algorithm solving with C (PS solving)
+- **Development Tools:** Using PyCharm as the primary development environment
+- **Machine Learning:** Conducting research projects using Recurrent Neural Networks (RNN)
+
+#### 💼 Key Projects
+- **HIS (Hana High School Intranet Summary Service):** Developed a service to summarize and provide information from the school intranet
+- **HEES (Hana High School Club Admission System):** Built a system to automate the management and admission process of school clubs
+- **Exchange Rate Prediction with RNN:** Research and development of a currency exchange rate prediction model using RNN
+
+#### 🎓 Education
+- Currently enrolled at Hana High School (HAS)
+
+#### 📫 Contact
+- Email: [hoseong8115.dev@gmail.com](mailto:hoseong8115.dev@gmail.com)
+
+
+#### 🌟 About Me
+I am a passionate student and developer currently studying at Hana High School. I have a strong background in full-stack development, particularly using Python, C, and Svelte across various projects. Additionally, I am constantly challenging myself with problem-solving in algorithms, enhancing my skills as a PS solver. You can learn more about my projects and technical experiences here.
+
+---
+
 ### 안녕하세요, 저는 안호성입니다!
 🎓 **학생 & 풀스택 개발자** | 📍 하나고등학교 (HAS 13)
 
 #### 🛠 기술 스택
 - **백엔드 개발:** Python을 사용하여 FastAPI 기반의 백엔드 개발
 - **프론트엔드 개발:** Svelte를 활용한 모던 웹 인터페이스 구축
-- **문제 해결:** C 언어를 사용한 알고리즘 문제 해결 (PS solver)
+- **문제 해결:** C 언어를 사용한 알고리즘 문제 해결 (PS solving)
 - **개발 도구:** PyCharm을 주 개발 환경으로 사용
 - **머신러닝:** 순환 신경망(RNN)을 이용한 연구 프로젝트 수행
 
