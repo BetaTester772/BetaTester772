@@ -1,6 +1,8 @@
 ### Hello, I'm Hoseong Ahn!
 🎓 **Student & Full-Stack Developer** | 📍 Hana High School (HAS 13)
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hoseong8115" width="600" height="300"/></a>
+
 #### 🛠 Tech Stack
 - **Back-End Development:** Developing back-end with Python using FastAPI
 - **Front-End Development:** Building modern web interfaces with Svelte
@@ -115,8 +117,6 @@ I am a passionate student and developer currently studying at Hana High School. 
 저는 현재 하나고등학교에서 학업을 이어가고 있는 열정적인 학생이자 개발자입니다. 특히, Python 그리고 Svelte를 사용한 다양한 프로젝트 경험을 바탕으로 풀스택 개발 능력을 키워가고 있습니다. 또한, 문제 해결에 대한 열정을 가지고 지속적으로 PS 문제에 도전하며 알고리즘 능력을 강화하고 있습니다. 저의 프로젝트와 기술적 경험은 여기서 더 자세히 확인하실 수 있습니다.
 
 ![solved.ac card](https://solvedac-cards-starcea.paring.moe/profile/hoseong8115?size=100)
-
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=BetaTester772)
 
 <!--
 **BetaTester772/BetaTester772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
